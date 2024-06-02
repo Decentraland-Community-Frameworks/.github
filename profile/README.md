@@ -23,8 +23,7 @@ Provides a variety of assets, functions, and utilities to build your own tower d
 [Scene - Demo]()
 
 
-[Repo - SDK7](https://github.com/Decentraland-Community-Modules/DCL-TD-Framework-SDK7)
-
+[Repo - SDK7](https://github.com/Decentraland-Community-Modules/DCL-TD-Framework-SDK7) -
 [Repo - SDK6](https://github.com/Decentraland-Community-Modules/DCL-TD-Framework-SDK6)
 
 
@@ -49,8 +48,7 @@ Provides a variety of assets, functions, and utilities to build your own trading
 [Scene - Demo]()
 
 
-[Repo - SDK7](https://github.com/Decentraland-Community-Modules/DCL-Parkour-Framework-SDK7)
-
+[Repo - SDK7](https://github.com/Decentraland-Community-Modules/DCL-Parkour-Framework-SDK7) -
 [Repo - SDK6](https://github.com/Decentraland-Community-Modules/DCL-Parkour-Framework-SDK6)
 
 
@@ -61,8 +59,7 @@ Provides a variety of assets, functions, and utilities to build your own trading
 [Scene - Demo]()
 
 
-[Repo - SDK7](https://github.com/Decentraland-Community-Modules/DCL-Minesweeper-SDK7)
-
+[Repo - SDK7](https://github.com/Decentraland-Community-Modules/DCL-Minesweeper-SDK7) -
 [Repo - SDK6](https://github.com/Decentraland-Community-Modules/DCL-Minesweeper-SDK6)
 
 
@@ -73,8 +70,7 @@ Provides a variety of assets, functions, and utilities to build your own trading
 [Scene - Demo]()
 
 
-[Repo - SDK7]()
-
+[Repo - SDK7]() -
 [Repo - SDK6](https://github.com/Decentraland-Community-Modules/DCL-Card-Game-Framework-SDK6)
 
 
@@ -85,8 +81,7 @@ Provides a variety of assets, functions, and utilities to build your own trading
 [Scene - Demo]()
 
 
-[Repo - SDK7]()
-
+[Repo - SDK7]() -
 [Repo - SDK6](https://github.com/Decentraland-Community-Modules/DCL-Barricade-Defenders-SDK6)
 
 
@@ -96,7 +91,7 @@ Provides a variety of assets, functions, and utilities to build your own trading
 
 [Scene - Demo]()
 
-[Repo - SDK7]()
+[Repo - SDK7]() -
 [Repo - SDK6](https://github.com/Decentraland-Community-Modules/DCL-Checkers-SDK6)
 
 
